@@ -1,2 +1,2 @@
 *.ley
-__pycache___/*
+*.pyc
