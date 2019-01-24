@@ -1,10 +1,11 @@
 # use requirement.txt for virtual env install
 
-from test import succ_test, fail_test
+from test import *
 
 def test():
-    succ_test()
-    fail_test()
+#    succ_test()
+#    fail_test()
+    auto_post() 
     
 
 if __name__=='__main__':
